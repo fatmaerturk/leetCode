@@ -1,6 +1,3 @@
-# leetCode
-LeetCode Interview Questions
-
 LeetCode
 ========
 
@@ -21,5 +18,5 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./algorithms/cpp/twoSum/twoSum.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./leetCode/blob/main/Q1TwoSum.java)|Easy|
 
