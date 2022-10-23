@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-(Notes: "🔒" means you need to buy a book from happy Coding with Harley, Thor and Turdy)
+(Notes: "🔒" means you need to buy a book from happy Coding with Harley, Thor and Turdy
 
 
 | # | Title | Solution | Difficulty |
