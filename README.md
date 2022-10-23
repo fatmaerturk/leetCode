@@ -8,7 +8,6 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-(./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp), [Java](./algorithms/java/src/containerwithmostwater.java)|Medium|
 
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./Q2AddTwoNumbers.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Q1TwoSum.java)|Easy|
