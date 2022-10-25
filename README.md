@@ -12,5 +12,11 @@ LeetCode
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/two-sum/)|[with Java](./Q3LongestSubstringWithoutRepeatingCharacters.java)|[with Java](./testcase/Q3LongestSubstringWithoutRepeatingCharacters.java)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[with Java](./logic/Q2AddTwoNumbers.java)|[with Java](./testcase/Q2AddTwoNumbers.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[with Java](./logic/Q1TwoSum.java)|[with Java](./testcase/Q1TwoSum.java)|
-- red Easy|
+```diff
+- red
++ green
+! orange
+# gray
+```
+Easy|
 
