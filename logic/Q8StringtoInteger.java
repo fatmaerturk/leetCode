@@ -1,32 +1,32 @@
 package logic;
-
-import java.util.Arrays;
-
 public class Q8StringtoInteger {
     public static int myAtoi(String s) {
-        char[] ch=s.toCharArray();
-        for(int i=0; i<ch.length; i++){
-            if(ch[i]==' ') {
-                StringBuilder sb = new StringBuilder();
-                sb.append(s);
-                sb.deleteCharAt(0);
-                s = sb.toString();
-                System.out.println(s);
-                ch=s.toCharArray();
-                System.out.println("="+Arrays.toString(ch));
-//                if(ch[0]=='0'){
-//                    System.out.println("asdasd");
-//                    StringBuilder sb2 = new StringBuilder();
-//                    sb.append(s);
-//                    sb.deleteCharAt(0);
-//                    s = sb.toString();
-//                    System.out.println(s+"dfs");
-//                    ch=s.toCharArray();
-//                }
-
-            }
-
+        if (s == null || s.length() < 1) {
+            return 0;
         }
-        return -42;
+        final int INT_MAX = 2147483647;
+        final int INT_MIN = -2147483648;
+        s = s.replaceAll("^\\s+", "");
+        int i = 0;
+        boolean isNegative = s.startsWith("-");
+        boolean isPositive = s.startsWith("+");
+        if (isNegative) {
+            i++;
+        } else if (isPositive) {
+            i++;
+        }
+        double number = 0;
+        while (i < s.length() && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+            number = number * 10 + (s.charAt(i) - '0');
+            i++;
+        }
+        number = isNegative ? -number : number;
+        if (number < INT_MIN) {
+            return INT_MIN;
+        }
+        if (number > INT_MAX) {
+            return INT_MAX;
+        }
+        return (int) number;
     }
 }
