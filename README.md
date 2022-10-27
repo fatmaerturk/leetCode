@@ -8,7 +8,8 @@ LeetCode
 
 | # | Title | Solution | Test Cases | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
-|12|[❓Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[💫 with Java](./logic/Q12IntegertoRoman.java)|[✅ with Java](./testcase/Q12TestLogic.java)|🟡 Medium|
+|13|[❓Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[💫 with Java](./logic/Q13RomantoInteger.java)|[✅ with Java](./testcase/Q13TestLogic.java)|🟢 Easy|
+|12|[❓Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[💫 with Java](./logic/Q12IntegertoRoman.java)|[✅ with Java](./testcase/Q12TestLogic.java)|🟢 Easy|
 |11|[❓Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[💫 with Java](./logic/Q11ContainerWithMostWater.java)|[✅ with Java](./testcase/Q11TestLogic.java)|🟡 Medium|
 |10|[❓Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[💫 with Java](./logic/Q10RegularExpressionMatching.java)|[✅ with Java](./testcase/Q10TestLogic.java)|🔴 Hard|
 |9|[❓Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[💫 with Java](./logic/Q9PalindromeNumber.java)|[✅ with Java](./testcase/Q9TestLogic.java)|🟢 Easy|
