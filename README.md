@@ -24,9 +24,12 @@ LeetCode
 
 
 
+
+
 ### Data Structure I
 
 
 |  Day  | # | Title | Solution | Test Cases | Difficulty |
 |  ---  |---| ----- | -------- | ---------- | ---------- |
-|Day1 - Array| 217|[❓Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
+|Day1 - Array|217|[❓Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
+|Day1 - Array|53|[❓Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q53MaximumSubarray.java)|[✅ with Java](./testcase/Q53TestLogic.java)|🟡 Medium|
