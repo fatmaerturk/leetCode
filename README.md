@@ -27,6 +27,6 @@ LeetCode
 ### Data Structure I
 
 
-| # | Title | Solution | Test Cases | Difficulty |
-|---| ----- | -------- | ---------- | ---------- |
-|Day 1 Array - Question 217.|[❓Contains Duplicate]|(https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
+| # | | # | Title | Solution | Test Cases | Difficulty |
+|---| |---| ----- | -------- | ---------- | ---------- |
+|Day1 - Array| |217|[❓Contains Duplicate]|(https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
