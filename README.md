@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Test Cases | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
+|8|[❓String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[💫 with Java](./logic/Q8StringtoInteger.java)|[✅ with Java](./testcase/Q8TestLogic.java)|🟡 Medium|
 |7|[❓Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[💫 with Java](./logic/Q7ReverseInteger.java)|[✅ with Java](./testcase/Q7TestLogic.java)|🟡 Medium|
 |6|[❓Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[💫 with Java](./logic/Q6ZigzagConversion.java)|[✅ with Java](./testcase/Q6TestLogic.java)|🟡 Medium|
 |5|[❓Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[💫 with Java](./logic/Q5LongestPalindromicSubstring.java)|[✅ with Java](./testcase/Q5TestLogic.java)|🟡 Medium|
