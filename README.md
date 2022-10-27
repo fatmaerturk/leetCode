@@ -22,3 +22,11 @@ LeetCode
 |2|[❓Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[💫 with Java](./logic/Q2AddTwoNumbers.java)|[✅ with Java](./testcase/Q2TestLogic.java)|🟡 Medium|
 |1|[❓Two Sum](https://leetcode.com/problems/two-sum/)|[💫 with Java](./logic/Q1TwoSum.java)|[✅ with Java](./testcase/Q1TestLogic.java)|🟢 Easy|
 
+
+
+### Data Structure I
+
+
+| # | Title | Solution | Test Cases | Difficulty |
+|---| ----- | -------- | ---------- | ---------- |
+|Day 1 Array - Question 217.|[❓Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i|[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
