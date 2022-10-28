@@ -10,8 +10,8 @@ public class Q88TestLogic {
     int[] nums3_1 = {0}, nums3_2 = {1}, output3={1}; int m3 = 0, n3 = 1;
     @Test
     public void findMergeSortedArray(){
-        //assertEquals(output1, Q88MergeSortedArray.merge(nums1_1, m1, nums1_2, n1));
-//        assertEquals(output2, Q88MergeSortedArray.merge(nums2_1, m2, nums2_2, n2));
-//        assertEquals(output3, Q88MergeSortedArray.merge(nums3_1, m3, nums3_2, n3));
+        assertEquals(output1, Q88MergeSortedArray.merge(nums1_1, m1, nums1_2, n1));
+        assertEquals(output2, Q88MergeSortedArray.merge(nums2_1, m2, nums2_2, n2));
+        assertEquals(output3, Q88MergeSortedArray.merge(nums3_1, m3, nums3_2, n3));
     }
 }

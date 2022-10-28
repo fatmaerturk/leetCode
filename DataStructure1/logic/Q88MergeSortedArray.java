@@ -11,8 +11,8 @@ public class Q88MergeSortedArray {
 
       merge(nums1_1, m1,nums1_2, n1);
     }
-    public static void merge(int[] nums1, int m, int[] nums2, int n) {
-        if(nums1.length!=(m+n)) return;
+    public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
+        if(nums1.length!=(m+n)) return null;
         for (int j=0; j<n; j++){
             nums1[j+m]=nums2[j];
         }
@@ -21,10 +21,6 @@ public class Q88MergeSortedArray {
             nums2[j]=nums1[j+m];
         }
         Arrays.sort(nums1);
-
-        System.out.println("nums1:"+Arrays.toString(nums1));
-        System.out.println("nums2:"+Arrays.toString(nums2));
-
-        //return result;
+        return nums1;
     }
 }
