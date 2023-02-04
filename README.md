@@ -31,7 +31,7 @@ LeetCode
 
 |  Day  | # | Title | Solution | Test Cases | Difficulty |
 |  ---  |---| ----- | -------- | ---------- | ---------- |
-|Day1 - Array|217|[❓Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q217ContainsDuplicate.java)|[✅ with Java](./testcase/Q217TestLogic.java)|🟢 Easy|
-|Day1 - Array|53|[❓Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q53MaximumSubarray.java)|[✅ with Java](./testcase/Q53TestLogic.java)|🟡 Medium|
-|Day2 - Array|1|[❓Two Sum](https://leetcode.com/problems/two-sum/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/Q1TwoSum.java)|[✅ with Java](./testcase/Q1TestLogic.java)|🟢 Easy|
+|Day1 - Array|217|[❓Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[💫 with Java](./DataStructure1/logic/Q217ContainsDuplicate.java)|[✅ with Java](./DataStructure1/testcases/Q217TestLogic.java)|🟢 Easy|
+|Day1 - Array|53|[❓Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=study-plan&id=data-structure-i)|[💫 with Java](./logic/DataStructure1/Q53MaximumSubarray.java)|[✅ with Java](./DataStructure1/testcases/Q53TestLogic.java)|🟡 Medium|
+|Day2 - Array|1|[❓Two Sum](https://leetcode.com/problems/two-sum/?envType=study-plan&id=data-structure-i)|[💫 with Java](./DataStructure1/logic/Q1TwoSum.java)|[✅ with Java](./DataStructure1/testcases/Q1TestLogic.java)|🟢 Easy|
 |Day2 - Array|88|[❓Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan&id=data-structure-i)|[💫 with Java](./DataStructure1/logic/Q88MergeSortedArray.java)|[✅ with Java](./DataStructure1/testcases/Q88TestLogic.java)|🟢 Easy|
