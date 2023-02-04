@@ -4,9 +4,9 @@ import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
 
-public class Q26TestLogic {
+public class Q26TestLogicMethod1 {
     int[] nums1 = {1,1,2}; int output1=2;
-    int[] nums2 = {1,1}; int output2=1;
+    int[] nums2 = {0,0,1,1,1,2,2,3,3,4}; int output2=5;
 
     @Test
     public void findReverseInteger() {
