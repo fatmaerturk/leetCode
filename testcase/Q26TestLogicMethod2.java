@@ -9,7 +9,7 @@ public class Q26TestLogicMethod2 {
     int[] nums2 = {0,0,1,1,1,2,2,3,3,4}; int output2=5;
 
     @Test
-    public void findReverseInteger() {
+    public void removeDuplicatesfromSortedArray() {
         assertEquals(output1, Q26RemoveDuplicatesfromSortedArrayMethod2.removeDuplicates(nums1));
         assertEquals(output2, Q26RemoveDuplicatesfromSortedArrayMethod2.removeDuplicates(nums2));
     }
