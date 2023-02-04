@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Test Cases | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
+|26|[❓Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[💫 with Java(Method 1)](./logic/Q26RemoveDuplicatesfromSortedArrayMethod1.java)|[✅ with Java](./testcase/Q26TestLogic.java)|🟢 Easy|
 |13|[❓Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[💫 with Java](./logic/Q13RomantoInteger.java)|[✅ with Java](./testcase/Q13TestLogic.java)|🟢 Easy|
 |12|[❓Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[💫 with Java](./logic/Q12IntegertoRoman.java)|[✅ with Java](./testcase/Q12TestLogic.java)|🟢 Easy|
 |11|[❓Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[💫 with Java](./logic/Q11ContainerWithMostWater.java)|[✅ with Java](./testcase/Q11TestLogic.java)|🟡 Medium|
